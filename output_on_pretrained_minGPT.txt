@@ -1,0 +1,654 @@
+--------------------------------------------------------------------------------
+SECTION
+  2
+ENTITIES
+  0
+TEXT
+  5
+1171E
+330
+18
+100
+AcDbEntity
+  8
+0
+100
+AcDbObject
+  9
+0
+100
+AcDbSqlCommand
+  10
+100
+100
+9:0B:B8:000
+0x9:C8:C4:000
+0x8:0E:C4:000
+0x7:0C:C4:000
+0x6:C4:C4:000
+6:00:0C:C4:000
+4:54:00:000
+3:00:00:000
+2:54:00:000
+4:04:00:000
+4:4E:80:000
+0x16:04:80:000
+0x10:00:80:000
+0xB6:C8:C4:000
+0xD0:F4:C4:000
+0x80:00:C4:000
+0xC6:48:0C:000
+0x80:00:20:000
+0x80:14:0C:000
+0xE0:58:00:000
+0xC6:48:0C:000
+ACdb_entity_start_0x9 : ACDBAccess
+This operation begins at the point
+0x6:18:1B:D5
+6:00:0C:C4:000
+0x6:C4:C4:000 = The ACDB_entity_start_0x8 operation for SQL Server,
+and ends with the ACDB_entity_start_0x14 operation for Oracle.
+When you start a session, you'll see something similar to the following:
+0x9:C8:C4:000  0x8:0E:C4:000
+ACDB_entity_start_0x9 : ACDB_entity_start
+The ACDB_entity_start operation is an Oracle-specific operation that lets you specify an additional entity starting point. This operation sets up a second ACDB DB_PRIOC_ID . It is used in case you want all operations to start up at a single ACDB DB_PRIOC_ID .
+The ACDB_entity_start_0x10 : ACDB_entity_execute_1
+This operation is very similar to ACDB_entity
+--------------------------------------------------------------------------------
+SECTION
+  2
+ENTITIES
+  0
+TEXT
+  5
+1171E
+330
+18
+100
+AcDbEntity
+  8
+0
+100
+1000
+
+0
+
+0
+
+13
+
+AaAcPseEntity
+  9
+
+8
+
+100
+
+1000
+
+0
+
+0
+
+10
+
+AcIdentityPseEntity
+  10
+
+8
+
+100
+
+1408
+
+0
+
+100
+
+1001
+
+AcAgileAgilityPseEntity
+  11
+
+8
+
+7
+
+1000
+
+1500
+
+0
+
+100
+
+10000
+
+AcInebileIbppentity
+
+0
+
+0
+
+10
+
+1000
+
+1688
+
+0
+
+0
+
+13
+
+AcNestAdrPseEntity
+
+9
+
+10
+
+1000
+
+1688
+
+1492
+
+
+This information is extracted from the data files found in the following folders:
+
+- C:\Program Files (x86)\Epic Games\Sid Meier's Civilization Civilization V\data
+
+
+This program will not run on versions of Windows older than Windows XP / Server 2003 / Vista.
+
+
+This program comes with no warranty. This program is provided on an "AS IS" basis without warranty of any kind.
+
+
+If you have any problems, or do not understand the instructions, you should seek the help of your local computer support personnel, or try contacting your local police / sheriff's department.
+
+
+This program may not work with Windows XP, XP Server, and Server 2003.
+
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
+
+This is not a virus, please do not run it.
+
+If you have any questions or remarks, mail them to: support@raspberrypi.org<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+--------------------------------------------------------------------------------
+SECTION
+  2
+ENTITIES
+  0
+TEXT
+  5
+1171E
+330
+18
+100
+AcDbEntity
+  8
+0
+100
+100
+100
+AcDbData
+
+  10
+
+0
+
+100
+
+0
+
+acdb_name
+
+  12
+
+0
+
+acdb_type
+
+  13
+
+0
+
+acdb_class
+
+  14
+
+0
+
+name
+
+  15
+
+0
+
+acdb_version
+
+  16
+
+0
+
+acdb_lastModified
+
+  17
+
+0
+
+acdb_version_id
+
+  18
+
+0
+
+acdb_is_public_data
+
+  19
+
+0
+
+acdb_type
+
+  20
+
+0
+
+acdb_object_classification
+
+  21
+
+0
+
+acdb_object_version
+
+  22
+
+0
+
+acdb_object
+
+  23
+
+0
+
+acdb_object_type
+
+  24
+
+0
+
+acdb_object_version
+
+  25
+
+0
+
+acdb_object_objecttype
+
+  26
+
+0
+
+acdb_version
+
+  27
+
+0
+
+acdb_lastModified
+
+  28
+
+0
+
+acdb_version_id
+
+  29
+
+0
+
+acdb_is_public_data
+
+  30
+
+0
+
+acdb_version_id
+
+  31
+
+0
+
+acdb_class
+
+  32
+
+0
+
+acdb_class_index
+
+  33
+
+0
+
+acdb_object_classification
+
+  34
+
+0
+
+acdb_object_version
+
+  35
+
+0
+
+acdb_object_type
+
+  36
+
+0
+
+acdb_object_version
+
+  37
+
+0
+
+acdb_version
+
+  38
+
+0
+
+acdb_lastModified
+
+  39
+
+0
+
+acdb_version_id
+
+  40
+
+0
+
+acdb_is_public_data
+
+  41
+
+0
+
+acdb_version_id
+
+  42
+
+0
+
+acdb_data_key
+
+  43
+
+0
+
+acdb_data
+
+  44
+
+0
+--------------------------------------------------------------------------------
+SECTION
+  2
+ENTITIES
+  0
+TEXT
+  5
+1171E
+330
+18
+100
+AcDbEntity
+  8
+0
+1003E
+8
+8
+1003E
+2003E
+8003E.
+0201ED.
+0203ED.
+0203ED.
+0201ED.
+0030E.
+0003E<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>
+--------------------------------------------------------------------------------
+SECTION
+  2
+ENTITIES
+  0
+TEXT
+  5
+1171E
+330
+18
+100
+AcDbEntity
+  8
+0
+100
+0
+100
+AcDbEntity::GetItemSlotCount
+  10
+10
+0
+100
+AcDbEntityRef
+  11
+0
+
+100
+
+1000000
+
+18
+
+AcDbEntity::Move
+
+12
+
+2.5
+
+0.3
+
+6.5
+
+AcDbEntity::ApplyItem
+
+13
+
+20
+
+1.5
+
+0.3
+
+AcDbEntityRef::GetItemSlotRange
+
+14
+
+100
+
+2.5
+
+12
+
+AcDbEntity::Move
+
+16
+
+16
+
+0
+
+0
+
+AcDbEntity::ApplyItem
+
+17
+
+400
+
+10
+
+0.3
+
+AcDbEntityRef::GetItemSlotRange
+
+18
+
+400
+
+10
+
+10
+
+AcDbEntity::Move
+
+19
+
+100
+
+10
+
+0.3
+
+AcDbEntityRef::GetItemSlotCount
+
+20
+
+100
+
+10
+
+0.2
+
+AcDbEntity::CalculateFactionDiversity
+
+21
+
+100
+
+10
+
+10
+
+AcDbEntityRef::CalculateFactionDiversity
+
+22
+
+400
+
+10
+
+0.2
+
+AcDbEntity::ApplyItem
+
+23
+
+400
+
+20
+
+2
+
+AcDbItem::ApplyItem
+
+24
+
+400
+
+20
+
+2
+
+AcDbItem::GetItemSlotCount
+
+25
+
+100
+
+20
+
+2
+
+AcDbItem::CalculateFactionDiversity
+
+26
+
+100
+
+20
+
+2
+
+AcDbItem::CalculateFactionDiversity
+
+27
+
+40
+
+1.25
+
+0.25
+
+AcDbEntityRef::CalculateFactionDiversity
+
+28
+
+20
+
+2
+
+20
+
+AcDbEntityRef::Move
+
+29
+
+200
+
+10
+
+0.3
+
+AcDbItem::GetItemSlotCount
+
+30
+
+40000
+
+40
+
+0
+
+AcDbItem::calculateFactionDiversity
+
+31
+
+100
+
+20
+
+2
+
+AcDbItem::Move
+
+
